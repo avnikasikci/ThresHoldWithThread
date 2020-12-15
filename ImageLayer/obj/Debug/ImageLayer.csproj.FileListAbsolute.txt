@@ -1,0 +1,8 @@
+E:\Avni\HERŞEY EĞİTİM\Necmettin Erbakan Üniversitesi\Isletim Sistemleri\Threshold With Thread\ThreasHoldWithThread\ImageLayer\bin\Debug\ImageLayer.dll
+E:\Avni\HERŞEY EĞİTİM\Necmettin Erbakan Üniversitesi\Isletim Sistemleri\Threshold With Thread\ThreasHoldWithThread\ImageLayer\bin\Debug\ImageLayer.pdb
+E:\Avni\HERŞEY EĞİTİM\Necmettin Erbakan Üniversitesi\Isletim Sistemleri\Threshold With Thread\ThreasHoldWithThread\ImageLayer\bin\Debug\System.Drawing.Common.dll
+E:\Avni\HERŞEY EĞİTİM\Necmettin Erbakan Üniversitesi\Isletim Sistemleri\Threshold With Thread\ThreasHoldWithThread\ImageLayer\obj\Debug\ImageLayer.csprojAssemblyReference.cache
+E:\Avni\HERŞEY EĞİTİM\Necmettin Erbakan Üniversitesi\Isletim Sistemleri\Threshold With Thread\ThreasHoldWithThread\ImageLayer\obj\Debug\ImageLayer.csproj.CoreCompileInputs.cache
+E:\Avni\HERŞEY EĞİTİM\Necmettin Erbakan Üniversitesi\Isletim Sistemleri\Threshold With Thread\ThreasHoldWithThread\ImageLayer\obj\Debug\ImageLayer.csproj.CopyComplete
+E:\Avni\HERŞEY EĞİTİM\Necmettin Erbakan Üniversitesi\Isletim Sistemleri\Threshold With Thread\ThreasHoldWithThread\ImageLayer\obj\Debug\ImageLayer.dll
+E:\Avni\HERŞEY EĞİTİM\Necmettin Erbakan Üniversitesi\Isletim Sistemleri\Threshold With Thread\ThreasHoldWithThread\ImageLayer\obj\Debug\ImageLayer.pdb
