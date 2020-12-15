@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreasHoldWithThread", "ThreasHoldWithThread\ThreasHoldWithThread.csproj", "{28279485-1007-4021-9261-70EDF141FB1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageLayer", "ImageLayer\ImageLayer.csproj", "{6ED38D64-36C8-4D1A-9E74-60F4F72EDC8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28279485-1007-4021-9261-70EDF141FB1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28279485-1007-4021-9261-70EDF141FB1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28279485-1007-4021-9261-70EDF141FB1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28279485-1007-4021-9261-70EDF141FB1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ED38D64-36C8-4D1A-9E74-60F4F72EDC8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED38D64-36C8-4D1A-9E74-60F4F72EDC8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED38D64-36C8-4D1A-9E74-60F4F72EDC8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED38D64-36C8-4D1A-9E74-60F4F72EDC8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0A8542D-A664-43AD-881D-A567873E297B}
+	EndGlobalSection
+EndGlobal
